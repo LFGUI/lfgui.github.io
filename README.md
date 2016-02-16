@@ -1,2 +1,2 @@
-# lfgui.github.io
+# Welcome to LFGUI!
 Webpage of LFGUI (Lightweight Flexible Graphical User Interface)
