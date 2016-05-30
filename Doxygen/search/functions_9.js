@@ -8,5 +8,6 @@ var searchData=
   ['insert_5fevent_5fmouse_5frelease',['insert_event_mouse_release',['../classlfgui_1_1gui.html#a2e293f1c14695b9f85b32047346c1861',1,'lfgui::gui']]],
   ['insert_5fevent_5fmouse_5fwheel',['insert_event_mouse_wheel',['../classlfgui_1_1gui.html#a7975c514c8b239292fc5daa06de482d6',1,'lfgui::gui']]],
   ['instance',['instance',['../classlfgui_1_1wrapper__urho3d_1_1gui.html#a4af8e2e7581d3459dad31c74b08138ad',1,'lfgui::wrapper_urho3d::gui']]],
+  ['is_5fchecked',['is_checked',['../classlfgui_1_1checkbox.html#ab42c8f2f12291474113a34a2662a60da',1,'lfgui::checkbox::is_checked()'],['../classlfgui_1_1radio.html#aaef8b4dc041747326f413e8ddb9eac1a',1,'lfgui::radio::is_checked()']]],
   ['is_5fover',['is_over',['../classlfgui_1_1widget.html#a842b587fab7db92566e89faf9637cbf5',1,'lfgui::widget']]]
 ];

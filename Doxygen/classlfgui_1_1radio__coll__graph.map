@@ -1,0 +1,15 @@
+<map id="lfgui::radio" name="lfgui::radio">
+<area shape="rect" id="node2" href="$classlfgui_1_1label.html" title="Simple text label. " alt="" coords="899,473,979,500"/>
+<area shape="rect" id="node3" href="$classlfgui_1_1widget.html" title="Represents a widget. " alt="" coords="668,335,759,361"/>
+<area shape="rect" id="node12" href="$classlfgui_1_1gui.html" title="Used as a manager class and a LFGUI instance. " alt="" coords="903,291,974,317"/>
+<area shape="rect" id="node4" href="$classlfgui_1_1signal.html" title="lfgui::signal\&lt; lfgui\l::point_general \&gt;" alt="" coords="311,405,434,446"/>
+<area shape="rect" id="node5" href="$classlfgui_1_1signal_3_01void_01_4.html" title="Template specialisation for a signal without a parameter. " alt="" coords="306,471,439,497"/>
+<area shape="rect" id="node6" href="$classlfgui_1_1signal.html" title="lfgui::signal\&lt; lfgui\l::image &amp; \&gt;" alt="" coords="311,33,434,74"/>
+<area shape="rect" id="node7" href="$structlfgui_1_1widget__geometry.html" title="Used to position and size widgets. The position is: size_absolute+pos_percent*parent_size+offset_perc..." alt="" coords="297,353,448,380"/>
+<area shape="rect" id="node8" href="$structlfgui_1_1point__general.html" title="lfgui::point_general\l\&lt; int \&gt;" alt="" coords="5,93,136,134"/>
+<area shape="rect" id="node9" href="$structlfgui_1_1point__general.html" title="lfgui::point_general\l\&lt; float \&gt;" alt="" coords="5,346,136,387"/>
+<area shape="rect" id="node10" href="$classlfgui_1_1signal.html" title="lfgui::signal\&lt; lfgui\l::event_key \&gt;" alt="" coords="311,287,434,329"/>
+<area shape="rect" id="node11" href="$classlfgui_1_1signal.html" title="lfgui::signal\&lt; lfgui\l::event_mouse \&gt;" alt="" coords="311,222,434,263"/>
+<area shape="rect" id="node13" href="$classlfgui_1_1image.html" title="Contains a cimg and offers various drawing and manipulation functions. The cIMG library trores its pi..." alt="" coords="329,539,417,565"/>
+<area shape="rect" id="node14" href="$structlfgui_1_1color.html" title="lfgui::color" alt="" coords="673,473,754,500"/>
+</map>

@@ -13,6 +13,7 @@ var classlfgui_1_1wrapper__urho3d_1_1gui =
     [ "height", "classlfgui_1_1wrapper__urho3d_1_1gui.html#aaa2c9d896e630c417b9844d39e2db1c9", null ],
     [ "instance", "classlfgui_1_1wrapper__urho3d_1_1gui.html#a4af8e2e7581d3459dad31c74b08138ad", null ],
     [ "redraw", "classlfgui_1_1wrapper__urho3d_1_1gui.html#a60985756777b26a625fcc16a3c41bd0a", null ],
+    [ "set_cursor", "classlfgui_1_1wrapper__urho3d_1_1gui.html#a41a0ba17929f75ce14fca7f2c42f8b92", null ],
     [ "width", "classlfgui_1_1wrapper__urho3d_1_1gui.html#a38cb595bdb76f7eedecdc78a90f8e134", null ],
     [ "_context", "classlfgui_1_1wrapper__urho3d_1_1gui.html#ac3a825cce8740da0f29f5f01f0319cab", null ]
 ];

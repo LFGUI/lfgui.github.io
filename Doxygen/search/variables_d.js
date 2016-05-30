@@ -2,6 +2,8 @@ var searchData=
 [
   ['offset_5fpercent',['offset_percent',['../structlfgui_1_1widget__geometry.html#a521ad960a3b0b660df94f15b7b1a8210',1,'lfgui::widget_geometry']]],
   ['old_5fpos',['old_pos',['../classlfgui_1_1event__mouse.html#a9899c2bc85bb131c4dbe01476c51ce6a',1,'lfgui::event_mouse']]],
+  ['on_5faccept',['on_accept',['../classlfgui_1_1window.html#a8164b2f7b66df9aa7f60fde13a067883',1,'lfgui::window']]],
+  ['on_5fclose',['on_close',['../classlfgui_1_1window.html#a112ed32363b34fac26b9d4fbb65dce5d',1,'lfgui::window']]],
   ['on_5ffocus_5fin',['on_focus_in',['../classlfgui_1_1widget.html#a4207c19bdd1cf5647f7e8461eb34d2b6',1,'lfgui::widget']]],
   ['on_5ffocus_5fout',['on_focus_out',['../classlfgui_1_1widget.html#aaa77972f96e1c73fd0594cec52f44e78',1,'lfgui::widget']]],
   ['on_5fkey_5fpress',['on_key_press',['../classlfgui_1_1widget.html#a2cd3c4009c497980a9fd112d953b5afe',1,'lfgui::widget']]],
@@ -16,6 +18,7 @@ var searchData=
   ['on_5fmouse_5frelease',['on_mouse_release',['../classlfgui_1_1widget.html#ae7a5476e3ccf117fcf66cd00fb7c6e26',1,'lfgui::widget']]],
   ['on_5fmouse_5fwheel',['on_mouse_wheel',['../classlfgui_1_1widget.html#ac3d21b4fba12bed39b39791499cb544d',1,'lfgui::widget']]],
   ['on_5fpaint',['on_paint',['../classlfgui_1_1widget.html#ac43c9d05d4e2447de30203f097fefbae',1,'lfgui::widget::on_paint()'],['../classlfgui_1_1qt__hybrid.html#a839eefaf0a6f4a38828b0fb9fe8f61e1',1,'lfgui::qt_hybrid::on_paint()']]],
+  ['on_5freject',['on_reject',['../classlfgui_1_1window.html#a17d6bc406006ca98f36046eb53b5359c',1,'lfgui::window']]],
   ['on_5fresize',['on_resize',['../classlfgui_1_1widget.html#a58f4c1dad9aab83eeddc4006b6fd3f3f',1,'lfgui::widget']]],
-  ['on_5fvalue_5fchange',['on_value_change',['../classlfgui_1_1slider.html#a58f08d74356097d2be5c662675c0082f',1,'lfgui::slider']]]
+  ['on_5fvalue_5fchange',['on_value_change',['../classlfgui_1_1slider.html#a2535302fbf732c2e3cfc1c2a4cd692ec',1,'lfgui::slider']]]
 ];

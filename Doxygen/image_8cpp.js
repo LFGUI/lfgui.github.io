@@ -1,5 +1,5 @@
 var image_8cpp =
 [
-    [ "STB_TRUETYPE_IMPLEMENTATION", "image_8cpp.html#afaa2f2d0d9d6726cfae6da070e736347", null ],
-    [ "position", "image_8cpp.html#a253f46789953150970ae228a56fab054", null ]
+    [ "position", "image_8cpp.html#aeaf5e4f49c7d2bca5dfd601ff9554423", null ],
+    [ "distance_point_line", "image_8cpp.html#a7df43cd08570530abd585fe4af4e0874", null ]
 ];

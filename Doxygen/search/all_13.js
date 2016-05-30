@@ -8,6 +8,6 @@ var searchData=
   ['to_5fglobal',['to_global',['../classlfgui_1_1widget.html#a17c6b9f4da4fb5af9813b9be805e47c5',1,'lfgui::widget']]],
   ['to_5flocal',['to_local',['../classlfgui_1_1widget.html#a89b32f59d726314c038281739e954805',1,'lfgui::widget']]],
   ['top',['top',['../structlfgui_1_1rect.html#aef4d8e033c5fc0ce12d6f80c0325ef2e',1,'lfgui::rect']]],
-  ['translate',['translate',['../classlfgui_1_1widget.html#a204e8b7290baa467be3beccaa84b944d',1,'lfgui::widget::translate(int x, int y)'],['../classlfgui_1_1widget.html#ac8bee2d0d8ed64d65b447c76641bc51d',1,'lfgui::widget::translate(point p)']]],
+  ['translate',['translate',['../classlfgui_1_1widget.html#ad605e5c55ade032e69912db0b92e2a7a',1,'lfgui::widget::translate(int x, int y)'],['../classlfgui_1_1widget.html#a9888040dd4366bf46d8cbb0dbfcf23be',1,'lfgui::widget::translate(point p)']]],
   ['translated',['translated',['../classlfgui_1_1event__mouse.html#a029c7983e8270ff623bd36dd01081634',1,'lfgui::event_mouse']]]
 ];

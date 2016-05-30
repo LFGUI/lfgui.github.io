@@ -35,9 +35,12 @@ var hierarchy =
         [ "lfgui::wrapper_urho3d::gui", "classlfgui_1_1wrapper__urho3d_1_1gui.html", null ]
       ] ],
       [ "lfgui::label", "classlfgui_1_1label.html", [
-        [ "lfgui::button", "classlfgui_1_1button.html", null ]
+        [ "lfgui::button", "classlfgui_1_1button.html", null ],
+        [ "lfgui::checkbox", "classlfgui_1_1checkbox.html", null ],
+        [ "lfgui::radio", "classlfgui_1_1radio.html", null ]
       ] ],
       [ "lfgui::lineedit", "classlfgui_1_1lineedit.html", null ],
+      [ "lfgui::slider", "classlfgui_1_1slider.html", null ],
       [ "lfgui::slider", "classlfgui_1_1slider.html", null ],
       [ "lfgui::window", "classlfgui_1_1window.html", null ]
     ] ],

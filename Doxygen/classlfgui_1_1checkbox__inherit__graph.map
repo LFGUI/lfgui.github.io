@@ -1,0 +1,4 @@
+<map id="lfgui::checkbox" name="lfgui::checkbox">
+<area shape="rect" id="node2" href="$classlfgui_1_1label.html" title="Simple text label. " alt="" coords="20,80,100,107"/>
+<area shape="rect" id="node3" href="$classlfgui_1_1widget.html" title="Represents a widget. " alt="" coords="15,5,105,32"/>
+</map>

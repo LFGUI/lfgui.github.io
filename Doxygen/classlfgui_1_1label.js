@@ -2,6 +2,8 @@ var classlfgui_1_1label =
 [
     [ "label", "classlfgui_1_1label.html#aa3c44bc11f8c0f767b92599d4c8e2efc", null ],
     [ "label", "classlfgui_1_1label.html#a74e371824d20cb8ecfb19f4768b6761c", null ],
+    [ "label", "classlfgui_1_1label.html#a6e325626a6b3a8b132fe0c4f66f52a2a", null ],
+    [ "label", "classlfgui_1_1label.html#a270314c4cd6c833310c41e0bd6a88ff3", null ],
     [ "set_text", "classlfgui_1_1label.html#aac74f68fbe5652648ad75e20ecafb8cf", null ],
     [ "set_text_color", "classlfgui_1_1label.html#a5908c6befe04cdfab61e8d81c8d7aa56", null ],
     [ "set_text_size", "classlfgui_1_1label.html#acbe3f332924c9eade958b0f97d472cdc", null ],

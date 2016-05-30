@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['gui',['gui',['../classlfgui_1_1widget.html#a5d4a309c2c4f0f7252ce0e943365e8b6',1,'lfgui::widget']]]
+  ['widget',['widget',['../classlfgui_1_1gui.html#a1991bd0144d87e1e090210f9c285d810',1,'lfgui::gui']]]
 ];
